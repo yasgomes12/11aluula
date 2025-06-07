@@ -1,6 +1,6 @@
 // App.js (AGORA com JSX!)
 function App() {
-    const nome = "Otávio";
+    const nome = "yasmin";
     // Isto parece HTML, mas é JSX!
     return (
       <div className="container">
